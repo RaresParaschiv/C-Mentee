@@ -1,0 +1,7 @@
+C:\Users\rarre\source\repos\Csharp_Tema1\Csharp_Tema1\bin\Debug\Csharp_Tema1.exe.config
+C:\Users\rarre\source\repos\Csharp_Tema1\Csharp_Tema1\bin\Debug\Csharp_Tema1.exe
+C:\Users\rarre\source\repos\Csharp_Tema1\Csharp_Tema1\bin\Debug\Csharp_Tema1.pdb
+C:\Users\rarre\source\repos\Csharp_Tema1\Csharp_Tema1\obj\Debug\Csharp_Tema1.csprojAssemblyReference.cache
+C:\Users\rarre\source\repos\Csharp_Tema1\Csharp_Tema1\obj\Debug\Csharp_Tema1.csproj.CoreCompileInputs.cache
+C:\Users\rarre\source\repos\Csharp_Tema1\Csharp_Tema1\obj\Debug\Csharp_Tema1.exe
+C:\Users\rarre\source\repos\Csharp_Tema1\Csharp_Tema1\obj\Debug\Csharp_Tema1.pdb
